@@ -3,6 +3,6 @@
   background-color: #191919 !important;
 }
 
-.ghx-avatar-img, [role="img"] {
+[role="img"], img {
   filter: invert(100%);
 }
