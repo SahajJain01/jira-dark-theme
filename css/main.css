@@ -1,8 +1,8 @@
 #jira {
   filter: invert(88%);
-  background-color: #191919 !important; // Sorry :(
+  background-color: #191919 !important;
 }
 
-.ghx-avatar-img {
+.ghx-avatar-img, [role="img"] {
   filter: invert(100%);
 }
