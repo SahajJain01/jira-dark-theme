@@ -11,4 +11,4 @@ Simple Chrome extension, that applies dark theme to Jira. Edited from the origin
 Download the code or clone the repo, activate developer mode in `chrome://extensions`,
 and load the extension using `Load unpacked extension`.
 
-I don't have any plans to publish this extension at the moment.
+If you don't like the little jira icon you get in your extensions toolbar, right click it and hide it!
