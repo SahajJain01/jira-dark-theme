@@ -1,10 +1,10 @@
 # Jira Dark Theme
 
-> Welcome to the dark side. Originally forked from radibit/jira-dark-theme
+> Welcome to the dark side. 
 
 ## Description
 
-Simple Chrome extension, that applies dark theme to Jira. Edited from the original so that it isn't as jenky in the new jira style.
+Simple Chrome extension that applies an inverted dark theme to Jira. Originally forked from radibit/jira-dark-theme. I edited from the original so that it isn't as jenky in the new jira style.
 
 ## Installation
 
