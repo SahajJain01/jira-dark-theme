@@ -3,6 +3,6 @@
   background-color: #191919 !important;
 }
 
-[role="img"], img {
+[role="img"], img, .gadget-container {
   filter: invert(100%);
 }
