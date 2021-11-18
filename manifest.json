@@ -1,7 +1,7 @@
 {
  	"manifest_version": 2,
  	"name": "Dark Mode for JIRA Cloud",
- 	"version": "1.0",
+ 	"version": "1.1",
 	"description": "Enable dark mode for JIRA Cloud",
 	"icons": {
         "16": "images/icon-16.png",
