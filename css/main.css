@@ -4,9 +4,9 @@
 }
 
 [role="img"], img, .gadget-container {
-  filter: initial;
+  filter: (1) !important;
 }
 
 .media-viewer-popup {
-  filter: initial;
+  filter: (1) !important;
 }
