@@ -3,10 +3,10 @@
   background-color: #191919 !important;
 }
 
-[role="img"], img, .gadget-container {
-  filter: (1) !important;
+[role="img"], img, .gadget-container, [style^="background-image:"][style*="border-radius:"] {
+  filter: invert(1) !important;
 }
 
 .media-viewer-popup {
-  filter: (1) !important;
+  filter: invert(1) !important;
 }
